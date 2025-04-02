@@ -1,0 +1,65 @@
+{
+  "students": [
+    {
+      "id": "6630250150",
+      "name": "ธนนันท์  วงศ์เจริญ",
+      "faculty": "Science",
+      "major": "Computer Science",
+      "majorid": "S06",
+      "yr": "2",
+      "email": "thananan.won@ku.th",
+      "HighSchool": "สวนกุหลาบวิทยาลัย ชลบุรี",
+      "isActive": false
+    }
+  ],
+  "subjects": [
+    {
+      "id": "01174231",
+      "name": "Introduction to Recreation",
+      "credits": 2,
+      "grade": "D"
+    },
+    {
+      "id": "01418111",
+      "name": "Introduction to Computer Science",
+      "credits": 2,
+      "grade": "C+"
+    },
+    {
+      "id": "01418211",
+      "name": "Software Construction",
+      "credits": 3,
+      "grade": "D+"
+    },
+    {
+      "id": "01418223",
+      "name": "Data Science and Application Programs",
+      "credits": 3,
+      "grade": "A"
+    },
+    {
+      "id": "01418231",
+      "name": "Data Structures and Algorithms",
+      "credits": 3,
+      "grade": "C"
+    },
+    {
+      "id": "01418233",
+      "name": "Computer Architecture",
+      "credits": 3,
+      "grade": "D+"
+    },
+    {
+      "id": "01999012",
+      "name": "Health for Life",
+      "credits": 3,
+      "grade": "A"
+    },
+    {
+      "id": 12345678,
+      "name": "test",
+      "credits": 3,
+      "grade": "A"
+    }
+  ]
+}
